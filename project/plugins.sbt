@@ -1,0 +1,1 @@
+addSbtPlugin("com.eed3si9n" % "sbt_assembly" % "1.1.0")
